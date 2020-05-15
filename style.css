@@ -150,7 +150,7 @@ footer {
   padding: 1rem 2rem;
 
   /* Grid styles */
-  display: grid;
-  align-items: center;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  /*display: grid;*/
+  align-items: left;
+  /*grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));*/
 }
