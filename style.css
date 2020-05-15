@@ -143,9 +143,9 @@ footer {
 
 .hero {
   /* Photo by mnm.all on Unsplash */
-  background: url('images/plantumllogo.png') left; 
+  background: url('images/banner.png') left; 
   /* background-size: 10%; */
-  
+  background-size: cover; 
   background-repeat: no-repeat;
   padding: 1rem 2rem;
 
