@@ -1,0 +1,27 @@
+@startwbs
+' do by end of month
+* PlantUML to enable users deliver value
+** Playing with PlantUML
+*** section on named arguments
+*** section on passing sprite as parameter
+*** finish chapters on making sprites
+** Standardise Stdlib 
+*** update sprites to latest available icon sets and add e.g. google cloud
+*** define the procedures to replace the macros
+*** standardize stdlib
+*** ? toolset so anyone can do it
+** Get Started section
+*** create 1 or 2 html pages on this
+** Best of PlantUML
+*** create a seed page with some examples
+** Landing page plantuml.github.io
+*** define top 3 changes
+' no do below:
+** organise competition to get more best of 
+** PlantUML Forum
+*** is there anything to be done here?
+** PlantUML Specification
+*** Proof Of Concept http://alphadoc.plantuml.com/toc/asciidoc/en to Sphinx
+** Github pipeline to automate as much as possible
+
+@endwbs
